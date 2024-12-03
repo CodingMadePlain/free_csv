@@ -1,4 +1,4 @@
-id,first_name,last_name,email,gender,country,salary,date_joined
+student_id,first_name,last_name,email,gender,country,salary,date_joined
 1,Christophe,Pickford,cpickford0@google.fr,M,France,89430.8,2015-09-02
 2,Niall,Harfleet,nharfleet1@eepurl.com,M,France,76049.33,2002-11-08
 3,Slade,Goldsbury,sgoldsbury2@cyberchimps.com,M,Poland,53470.89,2019-08-05
